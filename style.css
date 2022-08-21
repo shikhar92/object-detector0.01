@@ -1,0 +1,20 @@
+body{
+
+background-size: cover;
+
+}
+
+.heading{
+
+font-size: 30px;
+font-weight: bold;
+font-family:'Lucida Sans Regular';
+width: 100%;
+
+}
+
+canvas{
+
+margin-top:100px;
+
+}
